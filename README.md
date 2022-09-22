@@ -2,6 +2,7 @@
 Translator to be used in earphones.
 Uses a custom google translate extension to bypass the need for a private key.
 Requires a microphone to run.
+Execute 'main.py' to for the program to open
 
 
 # Future ideas
