@@ -10,7 +10,7 @@ I would like to create an earphone with a microphone that runs this program only
 Eventually, I would like to have the program give suggestion replies but I will take time to design how this is implemented so it doesnt ruin the user experience.
 
 
-#README for the google translate API starts here
+# README for the google translate API starts here
 
 
 # google_trans_new
