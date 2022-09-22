@@ -1,6 +1,7 @@
 # On-the-Go-Translator-
 Translator to be used in earphones.
-Uses a custom google translate extension to bypass the need for a private key
+Uses a custom google translate extension to bypass the need for a private key.
+Requires a microphone to run.
 
 
 # Future ideas
